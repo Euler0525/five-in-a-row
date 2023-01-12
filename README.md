@@ -27,17 +27,21 @@
 │   ├── chess.py
 │   └── play.py
 ├── img
+│   ├── score.png
 │   └── win.png
 ├── main.py
 ├── README.md
 └── requirements.txt
+└── 五子棋.exe
 
-2 directories, 7 files
+2 directories, 9 files
 ```
 
 功能函数位于`./chess/play.py`第38行
 
 ## 运行结果
+
+运行`main.py`文件或直接打开`五子棋.exe`：
 
 玩家（黑棋）先手。一局结束后按`Enter`键进入下一局，棋盘右下角记录战况。
 
